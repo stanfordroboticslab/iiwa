@@ -3,7 +3,7 @@
 ##############################################################################
 
 cmake_minimum_required(VERSION 2.8.3)
-project(IIWAJavaInterface)
+project(iiwa_java_interface)
 
 ##############################################################################
 # Catkin

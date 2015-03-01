@@ -33,6 +33,6 @@ dependencies {
   /* Example of a local subproject dependency */ 
   /* compile project(':sibling_gradle_project') */
 	compile 'org.ros.rosjava_messages:sensor_msgs:[0.1,)'
-	compile project(':IIWA')
+	compile project(':iiwa')
 }
 
