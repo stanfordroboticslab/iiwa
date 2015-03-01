@@ -26,7 +26,7 @@ import org.ros.node.topic.Subscriber;
 
 import java.lang.StringBuilder;
 
-import IIWA.IIWAMsg;
+import iiwa.IIWAMsg;
 import listener.MsgData;
 
 /**

@@ -24,7 +24,7 @@ import org.ros.node.NodeMain;
 import org.ros.node.topic.Publisher;
 import org.ros.message.Time;
 
-import IIWA.IIWAMsg;
+import iiwa.IIWAMsg;
 
 /**
  * A simple {@link Publisher} {@link NodeMain}.
