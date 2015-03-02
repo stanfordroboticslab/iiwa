@@ -15,5 +15,9 @@ libraries.
 
 You may now need to edit 'ROScom.java'. Set the variables 'my_ip' and
 'my_master' with the necessary values for your robot. In addition, if your
-Sunrise Workbench is version >= 1.5. You should uncomment the corresponding
+Sunrise Workbench is version >= 1.5, you should uncomment the corresponding
 line in the 'run' method.
+
+At this point, running 'ROScom' on the iiwa should connect it to the master
+node. If this works you can begin writing your controller. A template for this
+is given in the 'iiwa' package.
